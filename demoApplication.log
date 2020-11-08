@@ -1,0 +1,93 @@
+[main] INFO  Base.BaseTests  - *** Run title test
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - *** Run title test
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - *** Run title test
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - *** Run title test
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - *** Run title test
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - *** Run title test
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - *** Run title test
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[main] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[main] INFO  Base.BaseTests  - **** App Quit ***
+[TestNG-test=/Users/workshop/Downloads/sample1-1] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[TestNG-test=/Users/workshop/Downloads/sample1-2] INFO  Base.BaseTests  - **** App Quit ***
+[TestNG-test=/Users/workshop/Downloads/sample1-1] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[TestNG-test=/Users/workshop/Downloads/sample1-2] INFO  Base.BaseTests  - **** App Quit ***
+[TestNG-test=/Users/workshop/Downloads/sample1-1] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[TestNG-test=/Users/workshop/Downloads/sample1-3] INFO  Base.BaseTests  - **** App Quit ***
+[TestNG-test=/Users/workshop/Downloads/sample1-1] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[TestNG-test=/Users/workshop/Downloads/sample1-4] INFO  Base.BaseTests  - **** App Quit ***
+[TestNG-test=/Users/workshop/Downloads/sample1-1] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[TestNG-test=/Users/workshop/Downloads/sample1-4] INFO  Base.BaseTests  - **** App Quit ***
+[TestNG-test=/Users/workshop/Downloads/sample1-1] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[TestNG-test=/Users/workshop/Downloads/sample1-4] INFO  Base.BaseTests  - **** App Quit ***
+[TestNG-test=/Users/workshop/Downloads/sample1-2] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[TestNG-test=/Users/workshop/Downloads/sample1-5] INFO  Base.BaseTests  - **** App Quit ***
+[TestNG-test=/Users/workshop/Downloads/sample1-2] DEBUG Base.BaseTests  - Log4j appender configuration is successful !!
+[TestNG-test=/Users/workshop/Downloads/sample1-5] INFO  Base.BaseTests  - **** App Quit ***

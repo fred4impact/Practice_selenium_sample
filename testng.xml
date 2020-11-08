@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/workshop/Downloads/sample1">
+        <classes>
+<!--            <class name="Testcases.Annotations">-->
+<!--                <methods>-->
+<!--                    <include name="TestCASE1"/>-->
+<!--                    <include name="TestCASE2"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--            <class name="Testcases.SampleAnnotations">-->
+<!--                <methods>-->
+<!--                    <include name="Tc_multiply_numbers"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--            <class name="Testcases.SearchAmazon">-->
+<!--                <methods>-->
+<!--                    <include name="AmazonSearchTest"/>-->
+<!--                    <include name="TC_Find"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--            <class name="Testcases.TestSample1">-->
+<!--                <methods>-->
+<!--                    <include name="TC_checkLogo"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--            <class name="Testcases.Testcase1">-->
+<!--                <methods>-->
+<!--                    <include name="getPageCurrentUrl"/>-->
+<!--                    <include name="getPageTitle"/>-->
+<!--                    <include name="getLinksOnPage"/>-->
+<!--                    <include name="getImageCount"/>-->
+<!--                    <include name="clickImage"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--            <class name="Testcases.sampleDataprovider">-->
+<!--                <methods>-->
+<!--                    <include name="searchTestCase"/>-->
+<!--                    <include name="testSample"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+            <class name="Testcases.victor">
+                <methods>
+                    <include name="testone"/>
+                    <exclude name="teston2"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

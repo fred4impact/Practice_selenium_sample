@@ -1,0 +1,13 @@
+<suite>
+    <test name = " Regression">
+       <classes>
+           <class name="Testcases.SampleAnnotations">
+               <methods>
+                   <include>
+
+                   </include>
+               </methods>
+           </class>
+       </classes>
+    </test>
+</suite>
